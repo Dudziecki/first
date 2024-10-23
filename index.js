@@ -15,3 +15,4 @@ let calculator = {
   
   console.log( calculator.sum(4,5) );
   console.log( calculator.mul(4,5) );
+  console.log( calculator.sum(4,5) );
